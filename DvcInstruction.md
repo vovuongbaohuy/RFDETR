@@ -71,7 +71,7 @@ dvc remote add -d gdrive_remote gdrive://<SHARED_DRIVE_ID>
 dvc remote modify gdrive_remote gdrive_use_service_account true
 dvc remote modify gdrive_remote gdrive_service_account_json_file_path ./dvc-sa-key.json
 ```
-📌 Replace ```<SHARED_DRIVE_ID>``` and ```./dvc-sa-key.json``` with your values
+>📌 Replace ```<SHARED_DRIVE_ID>``` and ```./dvc-sa-key.json``` with your values
 
 ## ☁️ 8. Push Data to Google Drive
 ```bash
