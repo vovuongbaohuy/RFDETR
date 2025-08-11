@@ -78,6 +78,14 @@ dvc remote modify gdrive_remote gdrive_service_account_json_file_path ./dvc-sa-k
 dvc push
 ```
 
+## 😁 9. Tracking Dataset change
+```bash
+dvc add data
+git add data.dvc
+git commit -m "Update dataset"
+dvc push
+```
+
 # ✅ Summary of Key Commands
 ```bash
 pip install "dvc[gdrive]"
