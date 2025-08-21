@@ -1,3 +1,13 @@
+--index-url https://download.pytorch.org/whl/cu121
 rfdetr
 cmake
 numpy
+torch
+torchvision
+torchaudio
+matplotlib
+pycocotools
+tqdm
+opencv-python
+scipy
+tensorboard

@@ -3,3 +3,9 @@ dvc-drive-project-466807-01adcda05ffa.json
 .env
 .venv
 rf-detr-base.pth
+rf-detr-medium.pth
+mahjong-vtacs-mexax-m4vyu-sjtd-2
+output_rfdetr_medium
+output_rfdetr_medium_autorickshaw
+output_rfdetr_merge_dataset
+venv
