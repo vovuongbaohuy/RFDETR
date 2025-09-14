@@ -194,7 +194,8 @@ if __name__ == "__main__":
         r"data\Nepali_vehicle_dataset_reduced\transport_vehicle", #16
         r"data\Nepali_vehicle_dataset_reduced\truck", #17
         r"data\Nepali_vehicle_dataset_reduced\van", #18
-
+        r"data\California_vehicle_dataset\train",
+        r"data\California_vehicle_dataset\valid",
     ]
     output_dir = r"data\merged_dataset"
 

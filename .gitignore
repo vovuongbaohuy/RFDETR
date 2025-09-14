@@ -9,3 +9,11 @@ output_rfdetr_medium
 output_rfdetr_medium_autorickshaw
 output_rfdetr_merge_dataset
 venv
+Motorcycles
+TestImage
+Trucks
+Vans
+Cars
+Buses
+NepaliVehicleDatasetProcessing.ipynb
+VehicleDatasetProcessing.ipynb

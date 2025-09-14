@@ -11,3 +11,6 @@ tqdm
 opencv-python
 scipy
 tensorboard
+kagglehub
+yt-dlp
+flask
